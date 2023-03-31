@@ -1,0 +1,2 @@
+CREATE OR REPLACE PACKAGE usr_mgmt AS
+END usr_mgmt;
